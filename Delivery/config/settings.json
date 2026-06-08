@@ -1,0 +1,7 @@
+{
+    "reload_interval": 5.0,
+    "warning_threshold": 80,
+    "notifications_enabled": true,
+    "notification_cooldown": 60,
+    "theme": "light"
+}
